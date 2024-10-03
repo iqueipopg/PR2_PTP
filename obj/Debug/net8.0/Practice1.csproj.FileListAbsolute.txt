@@ -1,0 +1,45 @@
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\bin\Debug\net8.0\Practice1.exe
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\bin\Debug\net8.0\Practice1.deps.json
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\bin\Debug\net8.0\Practice1.runtimeconfig.json
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\bin\Debug\net8.0\Practice1.dll
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\bin\Debug\net8.0\Practice1.pdb
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.sourcelink.json
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.dll
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\refint\Practice1.dll
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.pdb
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
+C:\Users\ferma\OneDrive - Universidad Pontificia Comillas\3º\Primer cuatri\Paradigmas y técnicas de programación\Práctica\paradigmas-practica2\obj\Debug\net8.0\ref\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\bin\Debug\net8.0\Practice1.exe
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\bin\Debug\net8.0\Practice1.deps.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\bin\Debug\net8.0\Practice1.runtimeconfig.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\bin\Debug\net8.0\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\bin\Debug\net8.0\Practice1.pdb
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.sourcelink.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\refint\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.pdb
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Escritorio\paradigmas-practica2\obj\Debug\net8.0\ref\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.sourcelink.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\refint\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.pdb
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\bin\Debug\net8.0\Practice1.exe
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\bin\Debug\net8.0\Practice1.deps.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\bin\Debug\net8.0\Practice1.runtimeconfig.json
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\bin\Debug\net8.0\Practice1.dll
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\bin\Debug\net8.0\Practice1.pdb
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
+C:\Users\UX325\OneDrive - Universidad Pontificia Comillas\Documentos\Uni\3º iMAT\Paradigmas\Practica_2\obj\Debug\net8.0\ref\Practice1.dll
